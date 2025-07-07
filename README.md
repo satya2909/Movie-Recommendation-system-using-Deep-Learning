@@ -1,6 +1,3 @@
-Here's a suggested `README.md` file content for your uploaded Jupyter Notebook titled `Recomendation_systems_DL.ipynb`. This assumes it's a deep learning-based recommendation system project (like one using MovieLens or similar datasets):
-
----
 
 # 🎯 Deep Learning Based Recommendation System
 
